@@ -59,10 +59,6 @@ export function MovieList() {
             summary: "Remy, a rat, aspires to become a renowned French chef. However, he fails to realise that people despise rodents and will never enjoy a meal cooked by him.",
         }
     ]);
-
-
-
-
     return (
         <div>
             <AddMovie movieList={movieList} setMovieList={setMovieList} />

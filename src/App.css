@@ -33,6 +33,18 @@
   gap: 0.8rem;
 }
 
+.not-found {
+  text-align: center;
+  font-size: 48px;
+  margin: 0;
+}
+
+.not-found-container {
+  width: 100%;
+  max-width: 850px;
+  margin: 0 auto;
+}
+
 
 /* RAM */
 .movie-list {
